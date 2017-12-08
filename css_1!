@@ -1,0 +1,31 @@
+<html>
+<head>
+<style>
+body {
+background-image:
+url("http://www.v3wall.com/wallpaper/1920_1080/1103/1920_1080_20110310093834448904.jpg");
+}
+th {
+color : black;
+font-family: cursive;
+}
+table {
+border-collapse : collapse;
+background-color : red;
+}
+</style>
+</head>
+<body>
+<table border="1" align="center" cellpadding="20">
+<th colspan="2"><big>ANIMAL PHOTOS<big></th>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</table>
+</body>
+</html>
